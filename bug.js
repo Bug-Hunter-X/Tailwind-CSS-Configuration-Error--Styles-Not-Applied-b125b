@@ -1,0 +1,1 @@
+The Tailwind CSS configuration file (tailwind.config.js or tailwind.config.cjs) is not correctly configured to include the necessary files or directories.
